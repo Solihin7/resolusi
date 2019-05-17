@@ -1,2 +1,3 @@
 Rencana IT 2020 adalah :
-- Running program NAV
+- Running program LIMS, ARCA
+- Setting ONT, ONU
