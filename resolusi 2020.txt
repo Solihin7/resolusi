@@ -3,3 +3,8 @@ Rencana IT 2020 adalah :
 - Setting ONT, ONU
 - Ganti ISP dari moratel ke remala
 - minta tagihan sewa isp ke sat
+Program yg pakai Php :
+ - LIMS
+ - ARCA
+ - HCMS
+ - AIMS
