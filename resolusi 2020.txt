@@ -3,6 +3,7 @@ Rencana IT 2020 adalah :
 - Setting ONT, ONU
 - Ganti ISP dari moratel ke remala
 - minta tagihan sewa isp ke sat
+
 Perangkat network BM :
 - ONT
 - ONU
@@ -10,3 +11,10 @@ Perangkat network BM :
 - Linknet
 - Remala
 - Moratel
+
+Program yg pakai Php :
+ - LIMS
+ - ARCA
+ - HCMS
+ - AIMS
+
