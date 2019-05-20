@@ -1,0 +1,4 @@
+Rencana IT 2020 adalah :
+- Running program LIMS, ARCA
+- Setting ONT, ONU
+- Ganti ISP dari moratel ke remala
