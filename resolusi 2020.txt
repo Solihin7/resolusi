@@ -3,3 +3,10 @@ Rencana IT 2020 adalah :
 - Setting ONT, ONU
 - Ganti ISP dari moratel ke remala
 - minta tagihan sewa isp ke sat
+Perangkat network BM :
+- ONT
+- ONU
+- PABX
+- Linknet
+- Remala
+- Moratel
